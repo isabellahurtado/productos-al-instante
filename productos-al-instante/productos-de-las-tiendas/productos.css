@@ -1,0 +1,16 @@
+/* Show it is fixed to the top */
+body {
+  min-height: 75rem;
+  padding-top: 4.5rem;
+  background-image: url("https://stores.org/wp-content/uploads/2017/04/Trends_displays.jpg");
+  background-size: 100%;
+  
+}
+
+.jumbotron {
+	padding: 2rem;
+	width: 25rem;
+	margin: 3rem;
+	border: 1rem;
+}
+	
