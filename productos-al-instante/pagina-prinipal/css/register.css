@@ -8,22 +8,24 @@ body {
   display: flex;
   -ms-flex-align: center;
   align-items: center;
-  padding-top: 40px;
-  padding-bottom: 40px;
+  padding-top: 30px;
+  padding-bottom: 30px;
   background-color: #A9D0F5;
   background-image: url("https://stores.org/wp-content/uploads/2017/04/Trends_displays.jpg");
   background-size: 100%;
 }
 
+
 .form-signin {
   width: 900px;
   max-width: 450px;
-  padding: 20px;
+  padding: 10px;
   margin: auto; 
 }
 .form-signin .checkbox {
   font-weight: 500;
   font-size: 20px;
+
 }
 .form-signin .form-control {
   position: relative;

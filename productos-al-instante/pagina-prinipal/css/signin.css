@@ -13,8 +13,17 @@ body {
   background-image: url("https://stores.org/wp-content/uploads/2017/04/Trends_displays.jpg");
   background-size: 100%;
 }
+.h3 {
+   font-family: 'Fjalla One', sans-serif;
+   font-family: 'Amatic SC', cursive;
+   font-size:  5rem;
+}
 
-.form-signin {
+.btn-warning {
+  width: 10;
+}
+
+.form-signin  {
   width: 900px;
   max-width: 450px;
   padding: 20px;
@@ -27,6 +36,7 @@ body {
 .form-signin .checkbox {
   font-weight: 500;
   font-size: 20px;
+
 }
 .form-signin .form-control {
   position: relative;

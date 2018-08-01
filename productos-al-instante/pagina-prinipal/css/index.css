@@ -62,8 +62,9 @@ body {
   color: rgba(255, 255, 255, .5);
   text-shadow: 4px 4px 2px rgba(255, 255, 255, 1);
   background-color: transparent;
-  border-bottom: #000; 
+  border-bottom: #; 
   border-bottom: .25rem solid transparent;
+
 }
 
 .nav-masthead .nav-link:hover,
@@ -75,14 +76,18 @@ body {
   margin-left: 1rem;
   color: #000;
   text-shadow: 4px 4px 2px rgba(255, 255, 255, 1);
+  font-family: 'Fjalla One', sans-serif;
+  font-family: 'Source Serif Pro', serif;
   border-bottom-color: #000;
-  font-size: 1rem;
+  font-size: 20px;
 }
 
 .nav-masthead .active {
   color: #000;
   border-bottom-color: #000;
-  font-size: 1rem;
+  font-size: 20px;
+  font-family: 'Fjalla One', sans-serif;
+ font-family: 'Source Serif Pro', serif;
 }
 
 @media (min-width: 48em) {
@@ -101,17 +106,24 @@ body {
 
 h1 {
    font-weight: 3rem;
+   font-family: 'Fjalla One', sans-serif;
+   font-family: 'Amatic SC', cursive;
+   font-size: 9rem;
+   padding: center;
 
 }
 
 .cover {
-  font-family: serif;
+  font-family: 'Fjalla One', sans-serif;
   
 
 }
-.cover .btn-lg {
+.cover  .btn-warning {
   padding: .75rem 1.25rem;
-  font-weight: ;
+  font-family: 'Fjalla One', sans-serif;
+  font-family: 'Amatic SC', cursive;
+  font-size: 2rem;
+  color: #000;
 }
 
 /*
@@ -120,6 +132,8 @@ h1 {
 .mastfoot {
   color: rgba(255, 255, 255, .5);
   color: #000;
-  font-family: monospace;
+  font-family: 'Fjalla One', sans-serif;
+  font-family: 'Amatic SC', cursive;
+  font-size: 1.5;
 
 }
